@@ -1,0 +1,10 @@
+br\com\tibdeventos\util\CLIUtils.class
+br\com\tibdeventos\view\MenuCadastraEvento.class
+br\com\tibdeventos\main\Main.class
+br\com\tibdeventos\view\MenuPrincipal.class
+br\com\tibdeventos\dao\EventoDAO.class
+br\com\tibdeventos\model\AreaPesquisa.class
+br\com\tibdeventos\view\Menu.class
+br\com\tibdeventos\view\MenuEventos.class
+br\com\tibdeventos\model\Evento.class
+br\com\tibdeventos\conexao\FabricaDeConexao.class
